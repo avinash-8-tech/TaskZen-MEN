@@ -30,8 +30,6 @@ TaskZen/ │── config/ # Database configuration │── models/ # Mongoose
 - **MONGO_URI=your_mongodb_connection_string**
 
 
-## 🔧 Installation & Setup
-
 ### 📂🔄 Clone the Repository
 ```bash
 git clone https://github.com/avinash-8-tech/TaskZen-MEN.git
